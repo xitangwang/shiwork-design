@@ -1,0 +1,5 @@
+Use case: logo-brand.
+Image 1 is the ShiWork identity reference. Create a clean dark-background brand lockup using the EXACT same S symbol silhouette and the EXACT wordmark "ShiWork", preserving its letter shapes, optical spacing and symbol-to-wordmark proportions.
+Place the logo on a perfectly flat solid midnight-navy #152734 background, with NO transparency. Symbol: flat bright teal #27BCC8. Wordmark: flat pure white #FFFFFF.
+One centered horizontal logo lockup only, wide 3:1 composition, same margins as reference. Every edge must be smooth, clean, sharp and continuous. White letterforms must be solid and filled, with clean empty counters. All negative spaces must be plain navy. No splatter, no flecks, no distressed texture, no outlines, no noise, no gradients, no glow or shadow, no extra text.
+This is the production dark-background color version of the reference logo; preserve the identity exactly.
